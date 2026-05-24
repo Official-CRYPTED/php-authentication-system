@@ -12,7 +12,7 @@ This project is a simple authentication system built using PHP, MySQL, HTML, and
 ## Technologies Used
 - PHP
 - MySQL
-- HTML5
+- HTML
 - CSS
 
 ## Project Structure
